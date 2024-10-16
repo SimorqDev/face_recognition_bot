@@ -1,9 +1,9 @@
 # Face recognition bot
 
-#Requirement
+# Requirement
 
 
-#installation 
+# installation 
 
-#ScreenShot
+# ScreenShot
 
